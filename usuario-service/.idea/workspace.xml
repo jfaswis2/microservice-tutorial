@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fd840c2d-61f1-4ca0-88d5-d54e95c97605" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/usuario-service/src/main/java/com/usuario/service/UsuarioServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/usuario-service/src/main/java/com/usuario/service/UsuarioServiceApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/usuario-service/src/main/resources/bootstrap.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/usuario-service/src/main/resources/bootstrap.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,21 +42,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Jhon/Documents/Programación/Microservicios-Tutorial/Microservicios-FeignClient/config-service",
-    "settings.editor.selected.configurable": "shared-indexes",
-    "spring.configuration.checksum": "33c04360180f65bedb61a2fe48440bb2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Jhon/Desktop/microservicios-tutorial-config-server/usuario-service&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;shared-indexes&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;33c04360180f65bedb61a2fe48440bb2&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="UsuarioServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="usuario-service" />
@@ -78,7 +77,9 @@
       <workItem from="1676548776200" duration="113000" />
       <workItem from="1676548936577" duration="3000" />
       <workItem from="1676549009889" duration="7889000" />
-      <workItem from="1677065144584" duration="4632000" />
+      <workItem from="1677065144584" duration="4893000" />
+      <workItem from="1677072305749" duration="33000" />
+      <workItem from="1677072579311" duration="154000" />
     </task>
     <servers />
   </component>
