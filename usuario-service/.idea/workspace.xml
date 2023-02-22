@@ -5,10 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd840c2d-61f1-4ca0-88d5-d54e95c97605" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../carro-service/carro-service/src/main/java/com/carro/service/entidades/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/../carro-service/carro-service/src/main/java/com/carro/service/entidades/Carro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../config-data/usuario-service.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../config-data/usuario-service.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../config-service/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../config-service/src/main/resources/application.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../moto-service/moto-service/src/main/java/com/moto/service/entidades/Moto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../moto-service/moto-service/src/main/java/com/moto/service/entidades/Moto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/usuario-service/src/main/java/com/usuario/service/UsuarioServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/usuario-service/src/main/java/com/usuario/service/UsuarioServiceApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/usuario-service/src/main/resources/bootstrap.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/usuario-service/src/main/resources/bootstrap.yaml" afterDir="false" />
@@ -82,7 +78,7 @@
       <workItem from="1676548776200" duration="113000" />
       <workItem from="1676548936577" duration="3000" />
       <workItem from="1676549009889" duration="7889000" />
-      <workItem from="1677065144584" duration="3443000" />
+      <workItem from="1677065144584" duration="4632000" />
     </task>
     <servers />
   </component>
